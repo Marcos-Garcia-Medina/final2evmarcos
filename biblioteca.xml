@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="biblioteca.xsl"?>
+<biblioteca>
+  <libro>
+    <foto>miki.webp</foto>
+    <titulo>Miki con sueño</titulo>
+    <autor>Marcos Garcia Medina</autor>
+    <fechaPublicacion año="1976"/>
+  </libro>
+  <libro>
+    <foto>senda.webp</foto>
+    <titulo>Senda la Dormilona</titulo>
+    <autor fechaNacimiento="28/03/1936">Marcos Garcia Medina</autor>
+    <fechaPublicacion año="1973"/>
+  </libro>
+  <libro>
+    <foto>summer.webp</foto>
+    <titulo>Summer en summer</titulo>
+    <autor fechaNacimiento="28/03/1936">Marcos Garcia Medina</autor>
+    <fechaPublicacion año="1969"/>
+  </libro>
+</biblioteca>
